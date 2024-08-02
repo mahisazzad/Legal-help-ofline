@@ -7,8 +7,8 @@ const urlsToCache = [
     '/styles.css',
     '/gallery.html',
     '/service-worker.js',
-    '/images/hero1.jpg', // Include all assets you want to cache
-    '/images/hero2.jpg',
+    '/images/hero1.jpeg', // Include all assets you want to cache
+    '/images/hero2.jpeg',
     '/images/hero3.jpg'
     '/chittagong.html'
     '/rajshahi.html'
